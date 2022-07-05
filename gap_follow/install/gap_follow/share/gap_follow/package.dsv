@@ -1,0 +1,11 @@
+source;share/gap_follow/hook/cmake_prefix_path.ps1
+source;share/gap_follow/hook/cmake_prefix_path.dsv
+source;share/gap_follow/hook/cmake_prefix_path.sh
+source;share/gap_follow/hook/pythonpath.ps1
+source;share/gap_follow/hook/pythonpath.dsv
+source;share/gap_follow/hook/pythonpath.sh
+source;share/gap_follow/local_setup.bash
+source;share/gap_follow/local_setup.dsv
+source;share/gap_follow/local_setup.ps1
+source;share/gap_follow/local_setup.sh
+source;share/gap_follow/local_setup.zsh
