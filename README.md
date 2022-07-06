@@ -11,7 +11,7 @@ For our final project, we elected to investigate Inverse Perspective Mapping as 
 
 
 ## F1Tenth ICRA2022 Competition
-Following the completition of the coursework, I was fortunte to compete in the ICRA2022 F1Tenth Autonomous Race. Our software stack includes a global optimal raceline, local planner for collision detection/overtakes, and a particle filter for localization. 
+Following the completition of the coursework, I was fortunte to compete in the ICRA2022 F1Tenth Autonomous Race. Our software stack includes a global optimal raceline, local planner for collision detection/overtakes, and a particle filter for localization. [Video from qualifying](https://youtu.be/sAAqAruC7M8)
 
 <img src=images/runs.gif height="200"> <img src=images/team_pic.jpg height="200">
 
