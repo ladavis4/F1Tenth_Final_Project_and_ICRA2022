@@ -18,11 +18,12 @@ Following the completition of the coursework, I was fortunte to compete in the I
 ### Pure Pursuit and Velocity Profile
 At the highest level, the car follows a global optimal raceline using pure pursuit. The global map is constructed with Cartographer before the race begins. In addition to the raceline we calculate a velocity profile constructed from the curvature of the raceline. The speeds are tuned to hold high speeds through turns while still maintaining control of the car. 
 
-<img src=images/vel_profile.png height="100"> 
+<img src=images/vel_profile.png height="200"> 
 
 
 ### Collision Detection 
 Because the ego car may encounter static obstacles or opponent vehicles the ego car is constantly checking if there is a collision free path on the raceline. If the path is blocked, the local planner switches to a gap follow approach until the ego car is free to continue on the raceline. 
-<img src=images/overtake1.gif height="100">
+
+<img src=images/overtake1.gif height= "150">
 
 
